@@ -1,0 +1,47 @@
+body{
+	background-color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	line-height: 26px;
+}
+.container{
+	width: 50%;
+	margin: 0 auto;
+	
+}
+h1{
+	font-size: 36px;
+	line-height: 36px
+}
+p{
+	font-size: 24px;
+	line-height: 32px;
+}
+
+h2{
+	font-size: 32px;
+	line-height: 32px;
+}
+button{
+	font-size: 30px;
+	border: none;
+	background-color:black;
+	color: white;
+	width: 200px;
+	height: 40px;
+}
+
+.ingrediënten{
+	margin: 10px;
+}
+
+.stappen{
+	margin: 20px;
+}
+p{
+
+}
+#tip{
+	background-color: #def6ed
+	
+}
